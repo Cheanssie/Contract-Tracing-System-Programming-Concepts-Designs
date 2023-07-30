@@ -1,0 +1,62 @@
+﻿  main.c
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(317,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(295,7): warning C4101: 'tempDate': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(294,15): warning C4101: 'sanitization': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(353,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(576,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(582,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(633,31): warning C4013: 'modifyVenueMenu' undefined; assuming extern returning int
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(559,168): warning C4101: 'quitChoice': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(558,40): warning C4101: 'searchCategory': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1081,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1074,37): warning C4101: 'validator': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1259,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1479,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1406,6): warning C4101: 'currentMonthReport': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1407,6): warning C4101: 'currentYearReport': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1401,7): warning C4101: 'recordDate': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1405,6): warning C4101: 'currentDayReport': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1651,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1728,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1886,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2088,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2385,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2518,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2522,24): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2711,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2810,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2701,6): warning C4101: 'maxDay': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2868,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2897,99): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2994,57): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3081,24): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3090,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3183,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3168,7): warning C4101: 'validator': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3366,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3606,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3613,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3703,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3738,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3889,23): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3892,24): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3981,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3988,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(3866,6): warning C4101: 'maxDay': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4009,26): warning C4101: 'selection2': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4113,22): warning C4129: '|': unrecognized character escape sequence
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4098,15): warning C4101: 'selection': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4288,34): warning C4101: 'searchDate': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4530,7): warning C4101: 'selection': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4568,18): warning C4101: 'modifyID': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4801,21): warning C4101: 'find': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(5326,6): warning C4101: 'calGender': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(5528,8): warning C4101: 'tempStaff2': unreferenced local variable
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(271): warning C4715: 'venueMenu': not all control paths return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1571): warning C4716: 'totalDayCount': must return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(1627): warning C4715: 'sanitizationMenu': not all control paths return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(2689): warning C4715: 'visitExitMenu': not all control paths return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(4093): warning C4715: 'visitorMenu': not all control paths return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(5323): warning C4715: 'staffMenu1': not all control paths return a value
+C:\Users\chean\source\repos\ContactTracingSystem\ContactTracingSystem\main.c(5525): warning C4716: 'staffMenu2': must return a value
+  ContactTracingSystem.vcxproj -> C:\Users\chean\source\repos\ContactTracingSystem\Debug\ContactTracingSystem.exe

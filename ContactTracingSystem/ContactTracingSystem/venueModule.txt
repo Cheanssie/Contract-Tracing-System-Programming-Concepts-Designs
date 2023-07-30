@@ -1,0 +1,15 @@
+CAN111|cafeteria|school canteen|50|27|03-01-2020|06:00|16:00
+GYM112|gymnasium|school gym|20|11|03-01-2020|08:00|20:00
+LBY113|library|school library|30|7|03-01-2020|10:00|18:00
+CRT114|court|sports court|40|20|05-01-2020|08:00|17:00
+HTL115|hostel|school hostel|200|34|05-01-2020|00:00|00:00
+ART201|classroom|art room|20|11|07-01-2020|06:00|16:00
+MSC202|classroom|music room|20|13|03-02-2020|06:00|17:00
+LAB301|laboratory|computer lab|25|4|03-02-2020|06:00|17:00
+LAB302|laboratory|chemistry lab|25|11|10-02-2020|06:00|17:00
+LAB303|laboratory|physics lab|25|12|10-02-2020|06:00|17:00
+LAB304|laboratory|biology lab|25|10|17-02-2020|06:00|17:00
+MED101|medicare|medical room|10|1|21-02-2020|06:00|15:00
+HAL000|hall|school hall|10000|3|25-02-2020|06:00|13:00
+STR001|store|book store|30|10|29-02-2020|10:00|13:00
+SRM002|staff|staff room|30|19|29-02-2020|06:00|20:00
